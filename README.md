@@ -23,8 +23,7 @@ Requirements
 Installation
 1. Clone the repository or download the network_sniffer.py file.
 Install the required libraries using pip: pip install scapy requests colorama
-2.
-Usage
+2. Usage
 This tool requires elevated privileges to capture network packets.
 On Linux or macOS: sudo python3 network_sniffer.py
 ●
